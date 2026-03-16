@@ -38,7 +38,7 @@ Hi there 👋 I'm Nathan
 
 </details>
 <hr>
-- 🌱 I’m currently learning **Flutter and Laravel Development**
+- 🌱 I love challenging!**
 
 - 📫 How to reach me **schornathan510@gmail.com**
 
