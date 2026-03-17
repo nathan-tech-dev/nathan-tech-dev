@@ -7,7 +7,7 @@
     </h1>
 <h3 align="center"> 🌐Blockchain developer | Backend Developer 👨‍💻| Software Engineer 🌐🛠️| Mobile app Developer 📱 </h3> 
 
-<div align="center" style="display: block;">
+<div align="center" style="display: block;"> 
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
