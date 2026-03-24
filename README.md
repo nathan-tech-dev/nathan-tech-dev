@@ -10,8 +10,6 @@
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
 
-<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
-
 Hi there 👋 I'm Nathan
 
 
