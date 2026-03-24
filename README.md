@@ -35,7 +35,6 @@ Hi there 👋 I'm Nathan
 
 - ⚡ **Always Want To Learn More 📚 .**
 
-<h3 align="left">let's get in touch :</h3>
 <p align="left">
 </p>
 
