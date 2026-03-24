@@ -26,8 +26,6 @@ Hi there 👋 I'm Nathan
 📚 Contribute to open-source projects  
 💼 Explore advanced blockchain solutions for real-world problems
 
-📫 Contact me: your-email@example.com
-
 </details>
 <hr>
 
