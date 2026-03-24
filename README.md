@@ -37,8 +37,6 @@ Hi there 👋 I'm Nathan
 
 <h3 align="left">let's get in touch :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karem-saad-881081225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karem saad" height="30" width="40" /></a>
-<a href="https://instagram.com/karem.sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karem.sd" height="30" width="40" /></a>
 </p>
 
 <hr>
