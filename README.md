@@ -40,8 +40,6 @@ Hi there 👋 I'm Nathan
 <hr>
 - 🌱 I’m currently learning **Flutter and Laravel Development**
 
-- 📫 How to reach me **schornathan510@gmail.com**
-
 - ⚡ Fun fact **Always Want To Learn More 📚 .**
 
 <h3 align="left">let's get in touch :</h3>
